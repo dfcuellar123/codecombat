@@ -10,7 +10,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     classroom_in_a_box: "Un aula prediseñada para enseñar informática."
     codecombat_is: "CodeCombat es una plataforma para que los estudiantes aprendan informática mientras están jugando un juego de verdad." # {change}
     our_courses: "Nuestros cursos fueron probados especificamente para destacarse en el aula, incluso con maestros con poca o ninguna experiencia previa en programación." # {change}
-#    watch_how: "Watch how CodeCombat is transforming the way people learn computer science."
+    watch_how: "Mira cómo CodeCombat está transformando la forma en que la gente aprende la informática."
     top_screenshots_hint: "Los estudiantes escriben código y ven sus cambios actualizarse en tiempo real"
     designed_with: "Diseñado teniendo en cuenta a los maestros"
     real_code: "Escritura real de código"
@@ -62,11 +62,11 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     goto_classes: "Ir a mis clases" # {change}
     view_profile: "Ver mi perfíl"
     view_progress: "Ver mi progreso"
-#    go_to_courses: "Go to My Courses"
+    go_to_courses: "Ir a Mis Cursos"
     want_coco: "¿Quisiera CodeCombat en su escuela?"
 
   nav:
-#    map: "Map"
+    map: "Mapa"
     play: "Jugar" # The top nav bar entry where players choose which levels to play
     community: "Comunidad"
     courses: "Cursos"
@@ -78,19 +78,19 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     home: "Inicio"
     contribute: "Contribuir"
     legal: "Legal"
-#    privacy: "Privacy"
+    privacy: "privacidad"
     about: "Acerca"
     contact: "Contacto"
     twitter_follow: "Seguir"
-#    my_classrooms: "My Classes"
-#    my_courses: "My Courses"
+    my_classrooms: "Mis clases"
+    my_courses: "Mis cursos"
     careers: "Carreras"
     facebook: "Facebook"
     twitter: "Twitter"
     create_a_class: "Crear una Clase"
     other: "Otro"
     learn_to_code: "¡Aprender a programar!"
-#    toggle_nav: "Toggle navigation"
+    toggle_nav: "Alternar navegación"
     jobs: "Trabajos"
     schools: "Escuelas"
     get_involved: "Participa"
@@ -99,7 +99,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     faqs: "FAQs"
     help_pref: "¿Necesitas ayuda? Envianos un correó electronico!"
     help_suff: "y te contactaremos pronto"
-#    resource_hub: "Resource Hub"
+    resource_hub: "Centro de recursos"
 
   modal:
     close: "Cerrar"
@@ -138,10 +138,10 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     change_hero: "Cambiar héroe" # Go back from choose inventory to choose hero
     buy_gems: "Comprar gemas"
     subscription_required: "Requiere Suscripción"
-#    subscribers_only: "Subscribers Only!"
-#    subscribe_unlock: "Subscribe to Unlock!"
-#    subscriber_heroes: "Subscribe today to immediately unlock Amara, Hushbaum, and Hattori!"
-#    subscriber_gems: "Subscribe today to purchase this hero with gems!"
+    subscribers_only: "¡Suscriptores Solamente!"
+    subscribe_unlock: "¡Suscríbete para desbloquear!"
+    subscriber_heroes: "Suscríbase hoy para desbloquear inmediatamente Amara, Hushbaum, y Hattori!"
+    subscriber_gems: "¡Suscríbase hoy mismo para comprar este héroe con gemas!"
     anonymous: "Jugador Anónimo"
     level_difficulty: "Dificultad: "
     play_classroom_version: "Jugar la Versión de Aula" # Choose a level in campaign version that you also can play in one of your courses
@@ -152,10 +152,10 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     adjust_volume: "Ajustar el volumen"
     campaign_multiplayer: "Arenas Multijugador"
     campaign_multiplayer_description: "... en las que programas cara a cara contra otros jugadores."
-#    brain_pop_done: "You’ve defeated the Ogres with code! You win!"
-#    brain_pop_challenge: "Challenge yourself to play again using a different programming language!"
-#    replay: "Replay"
-#    back_to_classroom: "Back to Classroom"
+    brain_pop_done: "¡Has derrotado a los Ogros con código! ¡Tú ganas!"
+    brain_pop_challenge: "Desafíese a jugar de nuevo usando un lenguaje de programación diferente!"
+    replay: "repetir"
+    back_to_classroom: "Volver a la clase"
 
   code:
     if: "si" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
@@ -163,7 +163,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     elif: "si no"
     while: "mientras"
     loop: "ciclo"
-    for: "por"
+    for: "para"
     break: "interrupción"
     continue: "continuar"
     pass: "pasar"

@@ -10,7 +10,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     classroom_in_a_box: "Un aula prediseñada para enseñar informática."
     codecombat_is: "CodeCombat es una plataforma para que los estudiantes aprendan informática mientras están jugando un juego de verdad." # {change}
     our_courses: "Nuestros cursos fueron probados especificamente para destacarse en el aula, incluso con maestros con poca o ninguna experiencia previa en programación." # {change}
-#    watch_how: "Watch how CodeCombat is transforming the way people learn computer science."
+    watch_how: "Mira cómo CodeCombat esta transformando la forma en que las personas aprenden la informática"
     top_screenshots_hint: "Los estudiantes escriben código y ven sus cambios actualizarse en tiempo real"
     designed_with: "Diseñado teniendo en cuenta a los maestros"
     real_code: "Escritura real de código"
